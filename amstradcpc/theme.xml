@@ -1,0 +1,16 @@
+<theme>
+	
+	<formatVersion>4</formatVersion>
+	<include>./../retrowave.xml</include>
+	
+	<view name="system, basic, detailed, video">
+
+		<image name="logo">
+			<path>./system.png</path>
+		</image>
+		
+		<sound name="bgsound">
+         <path>./sound/system.ogg</path> 
+    </sound>
+	</view>	
+</theme>
